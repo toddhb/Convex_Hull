@@ -1,13 +1,12 @@
 /**
  * CS350 Term Project
- * @authors Parker Berger, Todd Brochu, Seyed Nima Sajadpour
+ * Copyright ©2015 Parker Berger, Todd Brochu, Seyed Nima Sajadpour
  * Portland State University
  * CS350, Winter 2015
  * 
  * This program implements two versions of Convex Hull:
  * QuickHull and brute force.  It collects performance
  * data on both.
- *
  */
 
 import java.lang.management.*;

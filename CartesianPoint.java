@@ -1,3 +1,8 @@
+/*Chat Application
+* Copyright ©2015 Parker Berger, Todd Brochu, Seyed Nima Sajadpour
+* Portland State University
+* CS350 Winter 2015
+*/
 
 public class CartesianPoint implements Comparable<CartesianPoint>{
 	int x = 0;
